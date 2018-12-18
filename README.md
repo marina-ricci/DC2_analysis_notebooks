@@ -1,1 +1,2 @@
-# test
+# CosmoDC2 analysis notebooks
+
